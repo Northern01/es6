@@ -1,0 +1,28 @@
+{
+  "name": "demo",
+  "version": "1.0.0",
+  "description": "ES6 Demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ES6",
+    "Demo"
+  ],
+  "author": "XuHongLiang",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-core": "^6.26.0",
+    "babel-plugin-transform-runtime": "^6.23.0",
+    "babel-preset-es2015": "*",
+    "babel-preset-stage-0": "^6.24.1",
+    "gulp-babel": "*",
+    "gulp-function": "*",
+    "gulp-sourcemaps": "*",
+    "source-map-support": "*"
+  },
+  "dependencies": {
+    "gulp": "^3.9.1"
+  }
+}
